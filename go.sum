@@ -1,0 +1,4 @@
+github.com/didikekopramono/go-say-hello v1.0.1 h1:EoLXbw5WEC+YaRLnzwA420JN9tR0euCPzRNFGd5azRY=
+github.com/didikekopramono/go-say-hello v1.0.1/go.mod h1:ZU8WlMcDEra7K8UZUBYo666JDUUjO/n5BJCpMC+Bc5I=
+github.com/didikekopramono/go-say-hello/v2 v2.0.0 h1:VKSU5e5kMiF1WbA9Sv5cxCjzhMKKpKBE+Dqmk2IIepc=
+github.com/didikekopramono/go-say-hello/v2 v2.0.0/go.mod h1:8rhjNHG6aB/AAe+u4Anc/KNE4gz43yU74O5woR3wXpc=
