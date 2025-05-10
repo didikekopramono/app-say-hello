@@ -5,7 +5,7 @@ import (
 	go_say_hello "github.com/didikekopramono/go-say-hello/v2"
 )
 func main() {
-	fmt.Println(go_say_hello.Sayhello(" eko pramono"))
+	fmt.Println(go_say_hello.Sayhello(" didik eko pramono"))
 	
 
 }
